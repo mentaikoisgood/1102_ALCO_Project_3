@@ -61,7 +61,7 @@ Output
 程式碼說明
 ---
 * `RS1`, `RS2`, `RS3`為Adder的RS, `RS4`, `RS5` 為 Multiplier的RS
-* 總共有5個Register: `F1`, `F2`, `F3`, `F4`, `F5` 
+* 總共有6個Register: `F0`, `F1`, `F2`, `F3`, `F4`, `F5` 
 * `vector<int> RF = { 0, 0, 2, 4, 6, 8 }`: 
     預設有6個Register (F0 = 0)
 * 初始RF裡的值
